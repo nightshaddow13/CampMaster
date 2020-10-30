@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.CampMaster.Facility.API", "com.CampMaster.Facility.API\com.CampMaster.Facility.API.csproj", "{10E35C14-E57D-4259-B5C9-E496C20BC601}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.CampMaster.Facility.API.Test", "com.CampMaster.Facility.API.Test\com.CampMaster.Facility.API.Test.csproj", "{5A7EEFE3-3CF3-41E9-8B0C-0D4A5988574A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E35C14-E57D-4259-B5C9-E496C20BC601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E35C14-E57D-4259-B5C9-E496C20BC601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E35C14-E57D-4259-B5C9-E496C20BC601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E35C14-E57D-4259-B5C9-E496C20BC601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7EEFE3-3CF3-41E9-8B0C-0D4A5988574A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7EEFE3-3CF3-41E9-8B0C-0D4A5988574A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7EEFE3-3CF3-41E9-8B0C-0D4A5988574A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7EEFE3-3CF3-41E9-8B0C-0D4A5988574A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE2EECD-5DEF-4BAB-ADAC-D2B601CA2C6B}
+	EndGlobalSection
+EndGlobal
